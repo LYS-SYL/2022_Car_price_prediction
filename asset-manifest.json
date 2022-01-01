@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/2022_Car_price_prediction/static/css/main.caa0466d.chunk.css",
+    "main.js": "/2022_Car_price_prediction/static/js/main.1c2b0688.chunk.js",
+    "main.js.map": "/2022_Car_price_prediction/static/js/main.1c2b0688.chunk.js.map",
+    "runtime-main.js": "/2022_Car_price_prediction/static/js/runtime-main.9a809c80.js",
+    "runtime-main.js.map": "/2022_Car_price_prediction/static/js/runtime-main.9a809c80.js.map",
+    "static/css/2.68b3310a.chunk.css": "/2022_Car_price_prediction/static/css/2.68b3310a.chunk.css",
+    "static/js/2.9279a4c1.chunk.js": "/2022_Car_price_prediction/static/js/2.9279a4c1.chunk.js",
+    "static/js/2.9279a4c1.chunk.js.map": "/2022_Car_price_prediction/static/js/2.9279a4c1.chunk.js.map",
+    "index.html": "/2022_Car_price_prediction/index.html",
+    "static/css/2.68b3310a.chunk.css.map": "/2022_Car_price_prediction/static/css/2.68b3310a.chunk.css.map",
+    "static/css/main.caa0466d.chunk.css.map": "/2022_Car_price_prediction/static/css/main.caa0466d.chunk.css.map",
+    "static/js/2.9279a4c1.chunk.js.LICENSE.txt": "/2022_Car_price_prediction/static/js/2.9279a4c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a809c80.js",
+    "static/css/2.68b3310a.chunk.css",
+    "static/js/2.9279a4c1.chunk.js",
+    "static/css/main.caa0466d.chunk.css",
+    "static/js/main.1c2b0688.chunk.js"
+  ]
+}
