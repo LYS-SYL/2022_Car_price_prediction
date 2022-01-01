@@ -1,0 +1,42 @@
+.HomePage {
+    padding: 25px 0 25px 50px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    // column-gap: 20px;
+    &__left {
+        // flex: 3;
+        .heading {
+            display: flex;
+            justify-content: space-between;
+            .submit-area {
+                text-align: center;
+                margin-bottom: 20px;
+                button {
+                    padding-left: 30px;
+                    padding-right: 30px;
+                }
+            }
+        }
+        padding-right: 20px;
+        border-right: 1px solid black;
+    }
+    &__right {
+        text-align: center;
+        #result, #input_required {
+            display: flex;
+            justify-content: center;
+            font-size: 2em;
+            color: salmon;
+            font-weight: 600;
+        }
+        
+    }
+    h2 {
+    }
+}
+
+.pacman-loading {
+    position: relative;
+    height: 50px;
+    width: 90%;
+}
