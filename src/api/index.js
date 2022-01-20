@@ -1,11 +1,11 @@
 import { httpGet, httpPost } from "./sender";
 
 const predictCarPrice = payload => {
-    return new Promise((rs => {
+    /*return new Promise((rs => {
         setTimeout(() => {
             rs(fakeData);
         }, 2000);
-    }))
+    }))*/
     return httpPost("/predict", payload);
 }
 
